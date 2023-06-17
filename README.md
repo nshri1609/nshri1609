@@ -1,3 +1,4 @@
+![BlockEnthu12](https://github.com/nshri1609/NikhilShrivas/assets/87777902/dc1e019b-7acf-45ae-ac7c-ebd323af2532)
 <h1 align="center">Hi 👋, I'm Nikhil Shrivas</h1>
 <h3 align="center">Blockchain developer playing around Solidity</h3> <img align="right" alt="Coding" width="400"  src=“ https://www.google.com/search?rlz=1C5CHFA_enIN980IN980&sxsrf=APwXEdd_2CJLjZH-RBp0Vhdch2orqbiCsA:1687004262986&q=animated+ethereum+gif&tbm=isch&sa=X&ved=2ahUKEwj_s9HOpMr_AhUSxDgGHTwLD3kQ0pQJegQIDBAB&biw=1440&bih=725&dpr=2#imgrc=VdS3OGODV0rXJM”
 
