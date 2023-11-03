@@ -1,7 +1,7 @@
 ![background blockenthu](https://github.com/nshri1609/nshri1609/assets/87777902/374f8446-69d3-43f2-b3ad-0c90ad6750ac)
 
 # 💫 About Me:
-🔭 I’m currently working on building a Stealth Web3 project<br><br>🌱 I’m currently learning solidity<br><br>👯 I’m looking to collaborate with Web3 projects<br><br>📝 I regularly write articles on (Blockchain and stuff)<br><br>
+🔭 I’m currently working on building a Stealth Web3 project<br><br>🌱 I’m currently learning Full Stack Blockchain Development<br><br>👯 I’m looking to collaborate with Web3 projects<br><br>📝 I regularly write articles on (Blockchain and stuff)<br><br>
 
 
 ## 🌐 Socials:
